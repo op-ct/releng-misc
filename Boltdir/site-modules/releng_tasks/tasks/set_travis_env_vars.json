@@ -34,7 +34,7 @@
       "description": "Specific repo names to affect.",
       "type": "Optional[Array[Pattern[/\\A(?i:[a-z][a-z0-9_-])\\Z/]]]"
     }
-  }
+  },
   "files": [
     "releng_tasks/files/set_travis_env_vars.rb"
   ]
